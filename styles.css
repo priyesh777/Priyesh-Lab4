@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #DCDCDC;
+    border-radius: 8px;
+    padding: 30px;
+}
+
+.map-area {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    margin: auto;
+}
